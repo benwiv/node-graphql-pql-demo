@@ -1,0 +1,28 @@
+{
+  "name": "node-graphql-pql-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwiv/node-graphql-pql-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benwiv/node-graphql-pql-demo/issues"
+  },
+  "homepage": "https://github.com/benwiv/node-graphql-pql-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "graphql-server-express": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.24.1"
+  }
+}
